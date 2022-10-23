@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "6841d6743c5bdafa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e6560f6a47bb028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d0a192523825fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NTHU/Operating System/Quiz 2 Prep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6fa0283565be0d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NTHU/Operating System/Quiz 2 Prep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a3e45ef4db4736e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ce6d60c3205f2a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2e823356d90bc87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8bc217a033562580",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c570b59098d97fff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c07da767d9393d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "9df7f57b0040811a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc1d7526c298c9e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NTHU/Operating System/Quiz 2 Prep.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e886bb067df6d72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NTHU/Operating System/Quiz 2 Prep.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98f73eee3fad9ea5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9259b0900042b55f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NTHU/Operating System/Quiz 2 Prep.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "c6fa0283565be0d9",
+  "lastOpenFiles": [
+    "NTHU/Derivative Market/Chapter 3 Exercise.md",
+    "NTHU/Operating System/Quiz 2 Prep.md",
+    "NTHU/Operating System/process-state.png",
+    "process.md",
+    "Operating System.md",
+    "K8s.md"
+  ]
+}
