@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6e6560f6a47bb028",
+        "id": "42255447a030ae99",
         "type": "tabs",
         "children": [
           {
-            "id": "4d0a192523825fbc",
+            "id": "39e199b80f4869e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NTHU/Operating System/Quiz 2 Prep.md",
+                "file": "NTHU/Operating System/EdSim/Tutorial 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c6fa0283565be0d9",
+            "id": "4b087b5f6b4dd2f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NTHU/Operating System/Quiz 2 Prep.md",
+                "file": "NTHU/Operating System/Quiz 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c07da767d9393d62",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NTHU/Operating System/Quiz 2 Prep.md",
+                "file": "NTHU/Operating System/Quiz 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NTHU/Operating System/Quiz 2 Prep.md",
+                "file": "NTHU/Operating System/Quiz 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NTHU/Operating System/Quiz 2 Prep.md"
+                "file": "NTHU/Operating System/Quiz 3.md"
               }
             }
           }
@@ -152,10 +153,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c6fa0283565be0d9",
+  "active": "4b087b5f6b4dd2f4",
   "lastOpenFiles": [
-    "NTHU/Derivative Market/Chapter 3 Exercise.md",
+    "NTHU/Operating System/EdSim/Tutorial 2.md",
     "NTHU/Operating System/Quiz 2 Prep.md",
+    "NTHU/Derivative Market/Chapter 3 Exercise.md",
     "NTHU/Operating System/process-state.png",
     "process.md",
     "Operating System.md",
