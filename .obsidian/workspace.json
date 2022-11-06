@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eaadc014a8bce856",
+        "id": "5157cfdbe37a5f59",
         "type": "tabs",
         "children": [
           {
-            "id": "dc5fc13605c52884",
+            "id": "68be9a3af3886c63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NTHU/Operating System/Quiz 2 Prep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8225ab65c5451ecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NTHU/Operating System/Chapter 1 Introduction to OS.md",
+                "file": "NTHU/Operating System/Chapter 2 OS Structure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NTHU/Operating System/Chapter 1 Introduction to OS.md",
+                "file": "NTHU/Operating System/Chapter 2 OS Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NTHU/Operating System/Chapter 1 Introduction to OS.md",
+                "file": "NTHU/Operating System/Chapter 2 OS Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NTHU/Operating System/Chapter 1 Introduction to OS.md"
+                "file": "NTHU/Operating System/Chapter 2 OS Structure.md"
               }
             }
           }
@@ -149,11 +136,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8225ab65c5451ecc",
+  "active": "68be9a3af3886c63",
   "lastOpenFiles": [
-    "process.md",
-    "NTHU/Operating System/Chapter 1 Introduction to OS.md",
     "NTHU/Operating System/Quiz 2 Prep.md",
+    "NTHU/Operating System/Chapter 1 Introduction to OS.md",
+    "process.md",
     "NTHU/Operating System/process-state.png",
     "NTHU/Operating System/EdSim/Tutorial 2.md",
     "NTHU/Operating System/Quiz 3.md",
