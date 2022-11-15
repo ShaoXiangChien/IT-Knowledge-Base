@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6d7d83fa5c05994e",
+        "id": "23a9f8f84495afb2",
         "type": "tabs",
         "children": [
           {
-            "id": "7caecaf9c1fdf446",
+            "id": "1756c45b82636e76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NTHU/Operating System/Weekly Review/Week 2.md",
-                "mode": "source",
+                "file": "NTHU/Operating System/Quiz 4 Prep.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c07da767d9393d62",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NTHU/Operating System/Weekly Review/Week 2.md",
+                "file": "NTHU/Operating System/Quiz 4 Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NTHU/Operating System/Weekly Review/Week 2.md",
+                "file": "NTHU/Operating System/Quiz 4 Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NTHU/Operating System/Weekly Review/Week 2.md"
+                "file": "NTHU/Operating System/Quiz 4 Prep.md"
               }
             }
           }
@@ -136,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2e823356d90bc87",
+  "active": "1756c45b82636e76",
   "lastOpenFiles": [
-    "NTHU/Operating System/Weekly Review/Week 1.md",
-    "NTHU/Operating System/Quiz 4 Prep.md",
-    "NTHU/Operating System/Quiz 3.md",
     "NTHU/Operating System/Quiz 3 Prep.md",
-    "NTHU/Operating System/Chapter 3 Processes.md",
-    "Pasted image 20221107001904.png",
-    "NTHU/Operating System/Chapter 2 OS Structure.md",
-    "Personal/Daily/1106 Sun.md",
     "NTHU/Operating System/Quiz 2 Prep.md",
-    "NTHU/Operating System/Chapter 1 Introduction to OS.md"
+    "NTHU/Operating System/Quiz 1 Prep.md",
+    "NTHU/Operating System/Quiz 4 Prep.md",
+    "NTHU/Operating System/Chapter 8 Deadlocks.md",
+    "Midterm Prep.md",
+    "NTHU/Operating System/Chapter 1 Introduction to OS.md",
+    "NTHU/Operating System/Weekly Review/Week 1.md",
+    "NTHU/Operating System/Weekly Review/Week 2.md",
+    "NTHU/Operating System/Quiz 3.md"
   ]
 }

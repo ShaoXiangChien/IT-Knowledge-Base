@@ -1,4 +1,4 @@
-# Chapter 1
+ # Chapter 1
 
 ## 1.2 Computer-System Organization
 
@@ -29,17 +29,24 @@
 ## Quiz 2
 ### Main Points
 - Two major approaches to a shell
+	1. understand all commands
+		- efficient per command, bigger shell
+		- to add commands need to modify the shell
+	2. invoke executable file
+		- smaller, heavier weight per command
+		- expandable, no need to modify shell to add command
 - The purpose of a **system call** is for a user program to request an OS service to be performed in kernel mode.
 - System call number is passed in a register to indicate what service to request.
-- Difference between system calls and API
+- Difference between system calls and API - many math API's don't need system call
 - Principle of separation between policy and mechanism
 	- Policy - What will be done? What is allowed?
 	- Mechanism - How to do it?
 > it allows maximum flexibility if policy decisions are to be changed later
 - Monolithic kernel
-	- it is lower overhead compared to microkernel but is hard to scale unless organized in a modular structure.
+	- lower overhead compared to microkernel 
+	- but hard to scale unless organized in a modular structure.
 - A **microkernel** can run an OS service in `user mode` while also protecting the rest of the system if each service runs in its own address space and cannot affect the rest of the system 
-- `__interrupt(4)` as a suffix of an ISR declaration associates the ISR with the *interrupt vector* for UART and yses RETI for return
+- `__interrupt(4)` as a suffix of an ISR declaration associates the ISR with the *interrupt vector* for UART and uses RETI for return
 - The `lcall` instruction calls a subroutine located at the specified address.
 - the difference between a program, process, job, and task
 	- A **process** is an isolated entity of Operating System. 
@@ -58,3 +65,5 @@
 	- shared memory is faster
 - bounded-buffer communication
 	- in unbounded buffer, the sender never blocks, and the receiver blocks only if the buffer is empty
+	- in bounded buffer, the sender is blocked if buffer is full
+- **zombie process** - a process that has completed execution (via the exit system call) but still has an entry in the process table

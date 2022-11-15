@@ -1,0 +1,25 @@
+- Batch system - run one user's job to completion at a time
+- Multiprogramming keeps processor utilized by performing computation and I/O in parallel, which solves the disadvantage with batch processing
+- **Context switching** is always done in **multitasking** system
+- A **multi-core multiprocessor** can deliver the **same performance** as a single processor but at **much lower power consumption**
+- An embedded system might not run an OS.
+- `ORG 0020H` in 8051 assembly
+	- occupies no space in code memory
+	- doesn't change the pc
+	- place the following instruction at address 0020H
+	- an assembler directive rather than an assembly instruction
+- `END` in assembly marks the end of the assembly source code, but the processor continues executing whatever is at that program memory location
+- sizes of various registers on 8051
+	- 16 bits : PC, DPTR
+	- 8 bits : PSW, R0..R7, B
+- **Device drivers** is likely to be part of the kernel of a typical general-purpose OS
+- Examples of a system program:
+	java interpreter, graphical user interface, CLI, program loader
+- As a resource manager, an OS manages *CPU time, storage space, use of I/O devices*
+- A **bootloader** copies an OS image from a server into RAM and jump to it.
+- Status register, data register, and buffer are parts of the device controller.
+- `RI flag == 1` signals that the UART has received a byte.
+- Compared with *polling*,  **Interrupts** enable the processor to do useful work while waiting for an I/O event.
+- An *interrupt vector* is the address of an ISR.
+- There are priorities between different interrupts, which affects the order of execution.
+- The OS uses **timer interrupt** to gain control to prevent a user program from **hogging CPU**.
