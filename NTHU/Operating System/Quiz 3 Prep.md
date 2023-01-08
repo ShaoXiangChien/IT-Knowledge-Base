@@ -10,7 +10,7 @@
 - recursive calls on a multiprocessor
 - *scheduler activation* - a kernel thread is allocated to a user thread to prevent it from blocking the entire process
 - kernel thread vs hardware thread
-	- kernel threads may run on a given hardward thread
+	- one or more kernel threads may run on a given hardward thread
 - `join()` vs `detach()`
 	- join - main thread stop running and wait until the new thread ends
 	- detach - doesn't stop the main thread, just mark it to be automatically reclaimed on termination
@@ -20,6 +20,7 @@
 	- e.g. MergeSort, QuickSort
 - fork-join parallelism is supported in OpenMP
 - RET in 8051 knows where to return to by ==finding the return address in the top two bytes of the stack==
+- SDCC pass a single-byte parameter in DPL
 
 ## Terms
 - overhead

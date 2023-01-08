@@ -1,5 +1,5 @@
 - Batch system - run one user's job to completion at a time
-- Multiprogramming keeps processor utilized by performing computation and I/O in parallel, which solves the disadvantage with batch processing
+- Multiprogramming keeps processor utilized by performing computation and I/O **in parallel**, which solves the disadvantage with batch processing
 - **Context switching** is always done in **multitasking** system
 - A **multi-core multiprocessor** can deliver the **same performance** as a single processor but at **much lower power consumption**
 - An embedded system might not run an OS.
@@ -22,4 +22,5 @@
 - Compared with *polling*,  **Interrupts** enable the processor to do useful work while waiting for an I/O event.
 - An *interrupt vector* is the address of an ISR.
 - There are priorities between different interrupts, which affects the order of execution.
+	i.e. the higher-priority interrupt will be taken while the lower-priority interrupt has to wait.
 - The OS uses **timer interrupt** to gain control to prevent a user program from **hogging CPU**.

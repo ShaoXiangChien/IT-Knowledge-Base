@@ -35,9 +35,10 @@
 	2. invoke executable file
 		- smaller, heavier weight per command
 		- expandable, no need to modify shell to add command
-- The purpose of a **system call** is for a user program to request an OS service to be performed in kernel mode.
-- System call number is passed in a register to indicate what service to request.
+- The purpose of a **system call** is for a *user program* to request an OS service to be performed in kernel mode.
+- **System call number** is passed in a **register** to indicate what service to request.
 - Difference between system calls and API - many math API's don't need system call
+- a system call traps to kernel and is common written in assembly code.
 - Principle of separation between policy and mechanism
 	- Policy - What will be done? What is allowed?
 	- Mechanism - How to do it?
@@ -45,6 +46,7 @@
 - Monolithic kernel
 	- lower overhead compared to microkernel 
 	- but hard to scale unless organized in a modular structure.
+- IPC, a function of a microkernel, is done in kernel mode.
 - A **microkernel** can run an OS service in `user mode` while also protecting the rest of the system if each service runs in its own address space and cannot affect the rest of the system 
 - `__interrupt(4)` as a suffix of an ISR declaration associates the ISR with the *interrupt vector* for UART and uses RETI for return
 - The `lcall` instruction calls a subroutine located at the specified address.
@@ -53,6 +55,7 @@
 	- A **task** may be called a process if it is a single task. 
 	- A **job** may be called a task if the job to be performed is a single unit of work. 
 	- A **process** or group of processes can be termed as a task and a group of tasks can be termed as a job.
+- A program is the static executable, while a process is an instance of program in execution.
 - the sections of memory of a process
 	- the _stack_ section contains auto-local variables of functions, parameters passed to a function call, and return address
 	- ![](sections.png)
