@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53bab6374ab85505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft/MLOps workshop/Notes for cooking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c26c9703b92cba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NTHU/Operating System/Quiz 6 Prep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NTHU/Operating System/Quiz 4 Prep.md",
+                "file": "NTHU/Operating System/Quiz 6 Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NTHU/Operating System/Quiz 4 Prep.md",
+                "file": "NTHU/Operating System/Quiz 6 Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NTHU/Operating System/Quiz 4 Prep.md"
+                "file": "NTHU/Operating System/Quiz 6 Prep.md"
               }
             }
           }
@@ -137,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1756c45b82636e76",
+  "active": "9c26c9703b92cba7",
   "lastOpenFiles": [
+    "Microsoft/MLOps workshop/Notes for cooking.md",
+    "NTHU/Operating System/Quiz 4 Prep.md",
     "NTHU/Operating System/Quiz 3 Prep.md",
     "NTHU/Operating System/Quiz 2 Prep.md",
     "NTHU/Operating System/Quiz 1 Prep.md",
-    "NTHU/Operating System/Quiz 4 Prep.md",
     "NTHU/Operating System/Chapter 8 Deadlocks.md",
     "Midterm Prep.md",
     "NTHU/Operating System/Chapter 1 Introduction to OS.md",
     "NTHU/Operating System/Weekly Review/Week 1.md",
-    "NTHU/Operating System/Weekly Review/Week 2.md",
-    "NTHU/Operating System/Quiz 3.md"
+    "NTHU/Operating System/Weekly Review/Week 2.md"
   ]
 }
